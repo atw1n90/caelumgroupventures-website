@@ -6,3 +6,9 @@
 - [x] Add the provided Caelum Group Ventures brand kit logo files to the website repo.
 - [x] Update the website favicon links so browser tabs and Apple touch icons use the new favicon set.
 - [x] Push the asset update to GitHub.
+
+## 2026-07-27 Privacy Statement
+
+- [x] Add a short privacy statement near the contact form.
+- [x] Keep wording limited to the actual form behavior: name, email, topic, and message are used to respond.
+- [x] Verify no unrelated legal claims or new functionality are added.
