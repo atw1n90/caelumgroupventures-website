@@ -17,3 +17,7 @@
 - Created `es/index.html` as a Spanish version of the current single-page website.
 - Added EN/ES navigation and `hreflang` metadata so visitors and search engines can discover both language versions.
 - Preserved the existing mailto contact flow, privacy statement, favicon set, NoCrickets link, and Suvelo link.
+
+## 2026-07-29 Spanish Copy Polish
+
+- Updated the Spanish nav and related section copy to use Proyectos instead of Ventures while preserving the company name.
