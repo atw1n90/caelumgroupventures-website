@@ -1,4 +1,4 @@
-# Caelum Group Ventures Lessons
+﻿# Caelum Group Ventures Lessons
 
 ## 2026-07-26
 
@@ -7,3 +7,7 @@
 ## 2026-07-27
 
 - The contact form is embedded inside the bundled `index.html` and uses a `mailto:` flow, so privacy wording should describe email inquiry handling rather than backend storage or third-party processing.
+
+## 2026-07-29
+
+- When adding attributes inside the embedded template JSON, quote characters must stay escaped or the bundle will fail before rendering.
