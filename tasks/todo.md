@@ -19,4 +19,4 @@
 - [x] Add clear EN/ES navigation between English and Spanish pages.
 - [x] Translate visible website copy while preserving brand names, email, and venture links.
 - [x] Verify favicon paths, contact flow, and privacy statement still work from `/es/`.
-- [ ] Push the work on a feature branch for review before production merge.
+- [x] Push the work on a feature branch for review before production merge.
