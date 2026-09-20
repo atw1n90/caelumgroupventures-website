@@ -20,3 +20,10 @@
 - [x] Translate visible website copy while preserving brand names, email, and venture links.
 - [x] Verify favicon paths, contact flow, and privacy statement still work from `/es/`.
 - [x] Push the work on a feature branch for review before production merge.
+
+## 2026-09-20 Footer Address Update
+
+- [x] Add the approved company address to the English footer without adding the phone number.
+- [x] Add the same address to the Spanish footer without adding the phone number.
+- [x] Verify footer address appears once per page and the phone number is absent.
+- [x] Push the footer update for manual Coolify redeploy.

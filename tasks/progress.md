@@ -21,3 +21,10 @@
 ## 2026-07-29 Spanish Copy Polish
 
 - Updated the Spanish nav and related section copy to use Proyectos instead of Ventures while preserving the company name.
+
+## 2026-09-20 Footer Address Update
+
+- Added the approved address to the English and Spanish footers: `5900 Balcones Drive STE 100, Austin, TX 78731`.
+- Kept the footer email and venture links unchanged.
+- Left the phone number out of the public footer by design.
+- Verified each page has exactly one footer address and no `940-308-0607` phone reference.
